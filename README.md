@@ -61,7 +61,7 @@ net localgroup administrators hacker_test /add
 
 ### Commands
 
-![Commands](cscreenshots/commands.png)
+![Commands](screenshots/commands.png)
 
 ### Account creation alert
 
