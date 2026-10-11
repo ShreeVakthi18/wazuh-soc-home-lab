@@ -14,6 +14,8 @@ endpoint, then investigated the resulting alerts as a SOC analyst would.
   auditpol /set /subcategory:"Logon" /success:enable /failure:enable
   ```
 - **Network:** Single bridged/host-only network, all systems under my control
+  
+- ![Wazuh dashboard](screenshots/wazuh-dashboard.png)
 
 ## Attack Simulation
 
