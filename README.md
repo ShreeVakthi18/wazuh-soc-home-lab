@@ -57,11 +57,11 @@ net localgroup administrators hacker_test /add
 
 ### Correlated brute-force alert
 
-![Correlated brute-force alert](multiple-failures.png)
+![Correlated brute-force alert](screenshots/multiple-failures.png)
 
 ### Commands
 
-![Commands](commands.png)
+![Commands](cscreenshots/ommands.png)
 
 ### Account creation alert
 
