@@ -15,7 +15,7 @@ endpoint, then investigated the resulting alerts as a SOC analyst would.
   ```
 - **Network:** Single bridged/host-only network, all systems under my control
   
-- ![Wazuh dashboard](screenshots/wazuh-dashboard.png)
+- ![Wazuh dashboard](screenshots/dashboard-wazuh.png)
 
 ## Attack Simulation
 
