@@ -50,10 +50,25 @@ net localgroup administrators hacker_test /add
 | 22:55:40           | Domain Users group changed               | 60160        | 5     |
 
 ### Screenshots
+
+### Logon failure alert
+
 ![Logon failure alert](screenshots/logon-failure.png)
+
+### Correlated brute-force alert
+
 ![Correlated brute-force alert](multiple-failures.png)
+
+### Commands
+
 ![Commands](commands.png)
+
+### Account creation alert
+
 ![Account creation alert](screenshots/account-created.png)
+
+### Group change alert
+
 ![Group change alert](screenshots/admin-group.png)
 
 ## Analyst Notes
